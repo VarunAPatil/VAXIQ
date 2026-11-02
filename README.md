@@ -2,7 +2,11 @@
 
 VAXIQ is a vaccine transport monitoring prototype built for Tech-A-Thon at Thadomal Shahani Engineering College. An ESP32-S3 collects temperature, load-cell inventory, and GPS readings, shows them on a local display, and records readings in Firebase Realtime Database. The enclosure photographed below carries the electronics and cooling assembly used for the hackathon demonstration.
 
+## Prototype photo
+
 ![VAXIQ prototype: blue transport box with the display, controller, and cooling assembly mounted on top](assets/vaxiq-prototype.png)
+
+[Open the full-size photo](assets/vaxiq-prototype.png).
 
 ## What the firmware does
 
